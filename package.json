@@ -1,0 +1,21 @@
+{
+  "name": "gpt4all",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "module": "esnext",
+  "scripts": {
+    "start": "tsx index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gpt4all": "^4.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.9.0",
+    "typescript": "^5.4.5"
+  }
+}
